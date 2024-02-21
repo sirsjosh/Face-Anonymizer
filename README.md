@@ -1,5 +1,7 @@
 # Face Anonymizer
 
+[ALT TEXT](https://github.com/sirsjosh/Face-Anonymizer/blob/main/cover.jpg)
+
 ## Description
 
 Face Anonymizer is a project that uses computer vision to detect and anonymize faces in images and videos. The anonymization process involves blurring or obscuring facial features while preserving privacy.
