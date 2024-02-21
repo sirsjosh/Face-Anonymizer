@@ -26,3 +26,8 @@ Face Anonymizer is a project that uses computer vision to detect and anonymize f
 
    ```bash
    git clone https://github.com/your-username/face-anonymizer.git
+
+### Data
+
+   ```bash
+   https://drive.google.com/drive/folders/1mKDuj5GBtKtCQyS9hm61171peN-KAOLu?usp=drive_link
