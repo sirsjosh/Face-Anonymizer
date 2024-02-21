@@ -1,6 +1,6 @@
 # Face Anonymizer
 
-[ALT TEXT](https://github.com/sirsjosh/Face-Anonymizer/blob/main/cover.jpg)
+![Alt Text](https://github.com/sirsjosh/Face-Anonymizer/blob/main/cover.jpg)
 
 ## Description
 
